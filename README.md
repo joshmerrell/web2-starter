@@ -8,5 +8,4 @@ Boilerplate for Web Design 2
 Click on "Use this template" to crate a new repository with the contents of this repo
 
 ## Citations
-- RealFaviconGenerator - https://realfavicongenerator.net/
 - [Normalize.css](https://necolas.github.io/normalize.css/)
