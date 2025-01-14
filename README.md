@@ -9,4 +9,4 @@ Click on "Use this template" to crate a new repository with the contents of this
 
 ## Citations
 - RealFaviconGenerator - https://realfavicongenerator.net/
-- Normalize.css
+- [Normalize.css](https://necolas.github.io/normalize.css/)
